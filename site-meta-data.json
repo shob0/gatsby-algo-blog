@@ -1,9 +1,9 @@
 {
-  "title": "Algorithm blog",
+  "title": "ISAM blog",
   "siteUrl": "https://teaching-swan.netlify.app/",
-  "description": "A place to share my learnings of algo and data structure.",
+  "description": "A place to share my learnings as an IBM security and Access Manager developer.",
   "home": {
-    "title": "Hi! I'm Swan",
-    "description": "I have been specifically trained to teach anyone and everyone about data structure and show them algorithms usiing JavaScript. I am solving AlgoExpert and then will proceed to HackerRank :)"
+    "title": "Hi! I'm Shobhit",
+    "description": "I have plenty of experience in developing Identity and access management solution using ISAM. Here I will be teaching what I have learnt :)"
   }
 }

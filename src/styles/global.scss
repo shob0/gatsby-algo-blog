@@ -9,7 +9,7 @@ body {
   margin-top: 0
 }
 body.light {
-  --primary-color: #381696;
+  --primary-color: #169632;
   --primary-text-color: #fff;
   --featured-bg: #493b8a;
   --featured-text: #fff;
@@ -53,7 +53,6 @@ body.dark {
 /* System Fonts as used by Medium and WordPress */
 body {
   font-family: $font-family;
-  border-top: 10px solid var(--primary-color);
   background-color: var(--background);
   color: var(--text-color);
 }
@@ -95,15 +94,15 @@ a {
 .site-header {
   display: flex;
   justify-content: space-between;
-  padding: 20px 0;
   background: var(--site-header);
-  margin-bottom: 32px;
+  margin-bottom: 80px;
   align-items: center;
 }
 .site-title a {
   color: var(--primary-color);
   text-decoration: none;
   font-weight: 900;
+  font-size: 20px;
   text-transform: uppercase;
 }
 .hero-header {
